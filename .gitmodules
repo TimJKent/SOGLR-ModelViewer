@@ -1,0 +1,3 @@
+[submodule "SOGLR"]
+	path = SOGLR
+	url = https://github.com/TimJKent/SOGLR.git
