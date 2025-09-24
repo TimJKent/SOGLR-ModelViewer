@@ -1,3 +1,0 @@
-S:/Users/Timber/Documents/GitHub/SOGLR-ModelViewer/CMakeFiles/FrameGen.dir
-S:/Users/Timber/Documents/GitHub/SOGLR-ModelViewer/CMakeFiles/ALL_BUILD.dir
-S:/Users/Timber/Documents/GitHub/SOGLR-ModelViewer/CMakeFiles/ZERO_CHECK.dir
