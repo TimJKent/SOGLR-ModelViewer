@@ -38,6 +38,8 @@ int main()
         window.BeginFrame();
         renderer.BeginFrame();
 
+        scene_camera->SetAspectRatio(window.GetAspectRatio());
+
         shader->Bind();
 
         shader->SetUniform3f("objectColor", glm::vec3(1.0f, 1.0f, 1.0f));
